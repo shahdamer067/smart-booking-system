@@ -1,0 +1,37 @@
+Appointment Booking Documentation
+
+Available Services:
+We offer the following services for booking:
+Haircut: Professional haircut services available Monday through Saturday
+Massage: Relaxing massage therapy sessions
+Dental Checkup: Routine dental examinations and cleanings
+Doctor Consultation: General medical consultations
+Fitness Training: Personal training sessions
+Beauty Treatment: Various beauty and spa treatments
+
+Hours of Operation:
+Monday to Friday: 9:00 AM - 6:00 PM
+Saturday: 10:00 AM - 4:00 PM
+Sunday: Closed
+
+How to Book:
+To book an appointment, you need to provide:
+The service you want (e.g., "Haircut", "Massage")
+Your preferred time slot
+
+Time Slots:
+Morning: 9:00 AM, 10:00 AM, 11:00 AM
+Afternoon: 1:00 PM, 2:00 PM, 3:00 PM, 4:00 PM
+Evening: 5:00 PM, 6:00 PM
+
+Cancellation Policy:
+Appointments can be cancelled up to 24 hours in advance without penalty.
+
+Rescheduling:
+You can reschedule your appointment by contacting us or using the booking system.
+
+Frequently Asked Questions:
+Q: How far in advance can I book? A: You can book appointments up to 30 days in advance.
+Q: Do you accept walk-ins? A: Walk-ins are welcome subject to availability, but appointments are recommended.
+Q: What payment methods do you accept? A: We accept cash, credit cards, and digital payment methods.
+Q: Can I book multiple services in one session? A: Yes, you can book multiple services. Please mention all services when booking.
